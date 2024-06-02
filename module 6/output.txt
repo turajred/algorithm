@@ -1,0 +1,15 @@
+Depth for 1: 0
+Depth for 2: 1
+Depth for 3: 1
+Depth for 4: 1
+Depth for 5: 2
+Depth for 6: 2
+Depth for 7: 2
+________
+Height for 1: 2
+Height for 2: 1
+Height for 3: 0
+Height for 4: 1
+Height for 5: 0
+Height for 6: 0
+Height for 7: 0

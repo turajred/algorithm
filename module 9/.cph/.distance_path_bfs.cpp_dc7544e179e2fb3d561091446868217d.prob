@@ -1,0 +1,1 @@
+{"name":"Local: distance_path_bfs","url":"e:\\algorithm\\module 9\\distance_path_bfs.cpp","tests":[{"id":1692168060511,"input":"5 4\n1 2\n1 3\n2 6\n3 4\n1 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\algorithm\\module 9\\distance_path_bfs.cpp","group":"local","local":true}
